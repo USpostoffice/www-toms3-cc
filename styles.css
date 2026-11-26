@@ -115,7 +115,7 @@ a, button, .popup-button:hover, .popup-close:hover, .window-body button:hover {
     font-size: 11px;
 }
 
-.window-body p b, .window-body ul li b, .faq-block span b {
+.window-body p b, .window-body ul li b, .faq-block span b, .rule-block span b {
     color: rgb(59, 58, 58);
 }
 
